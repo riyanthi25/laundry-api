@@ -33,7 +33,7 @@ class OrderController {
   // create new order
   static async addOrder(req: Request, res: Response) {
     try {
-      const { orderDate, totalCost, paymentMethod, customerId } = req.body;
+      const { orderDate, totalCost, paymentMethod, customerId } = req.body as OrderRequestBody;
 
       if (!orderDate || !totalCost || !paymentMethod || !customerId) {
         return res.status(400).json({ error: "All fields are required." });
@@ -112,5 +112,6 @@ class OrderController {
     }
   }
 }
+import { OrderRequestBody } from "../interface/order";
 
 export default OrderController;
