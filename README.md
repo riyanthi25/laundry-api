@@ -1,7 +1,7 @@
-# Laundry API
+# Laundry API🧺🥶
 Laundry API is a project for developing an API using **ExpressJS** and **TypeScript** language for a laundry service application. This API provides endpoints for managing customers, orders, and users.
 
-## Problem
+## Problem😭
 Laundry service businesses often face challenges in efficiently managing their operations, ranging from customer data management to order processing and user authentication. The absence of a streamlined system can lead to various issues, such as:
 
 1.  **Inefficient Customer Management:** Without a centralized system, tracking customer information, preferences, and order history becomes challenging, leading to a less personalized customer experience.
@@ -14,7 +14,7 @@ Laundry service businesses often face challenges in efficiently managing their o
     
 5.  **Code Maintainability:** Developing a maintainable codebase is crucial for the long-term success of the application. Without a structured approach, code becomes harder to maintain and prone to errors.
 
-## Features
+## Features🔥
 1. **Customer Management**
 Efficiently manage customer data, including their personal information, addresses, phone numbers, and payment details. This feature enhances customer interaction and provides a basis for personalized services.
 2. **User Authentication**
@@ -28,7 +28,7 @@ Implement role-based access control to manage user permissions effectively. This
  6. **API Endpoints**
 Create well-documented API endpoints for seamless integration with frontend applications or third-party services. This feature promotes interoperability and allows for the expansion of the system's functionalities.
 
-## Installation
+## Installation📈
  1. Make sure you have installed  `npm` and	 `node js` on your device
  2. Clone this repository  with this command : `git clone https://github.com/riyanthi25/laundry-api.git`
  3. Open the project folder in your favorite code editor
