@@ -1,7 +1,7 @@
 # Laundry API🧺🥶
 Laundry API is a project for developing an API using **ExpressJS** and **TypeScript** language for a laundry service application. This API provides endpoints for managing customers, orders, and users.
 
-## Problem😭
+## Problems👊🏻
 Laundry service businesses often face challenges in efficiently managing their operations, ranging from customer data management to order processing and user authentication. The absence of a streamlined system can lead to various issues, such as:
 
 1.  **Inefficient Customer Management:** Without a centralized system, tracking customer information, preferences, and order history becomes challenging, leading to a less personalized customer experience.
